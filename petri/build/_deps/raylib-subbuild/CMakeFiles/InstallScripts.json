@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/max/CODE/projects/gen_ai/petri/build/_deps/raylib-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

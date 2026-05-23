@@ -1,0 +1,1 @@
+-I/home/max/CODE/projects/gen_ai/petri/src -I"/home/max/CODE/projects/gen_ai/petri/build/_deps/raylib-src/src" -I"/home/max/CODE/projects/gen_ai/petri/build/_deps/raylib-src/src/external/glfw/include"
